@@ -88,7 +88,10 @@ This project is licensed under the MIT License. This means you can use and modif
 It is required node.js and npm
 * [Node.js](https://nodejs.org/en/)
 * [Npm](https://www.npmjs.com/)
+
 ___
-    $ git clone https://github.com/Wellington475/StorageModel
-    $ npm install
+
+$ git clone https://github.com/Wellington475/StorageModel
+$ npm install
+
 ___
