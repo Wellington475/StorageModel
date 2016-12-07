@@ -92,6 +92,10 @@ It is required node.js and npm
 ___
 
 $ git clone https://github.com/Wellington475/StorageModel
+
+___
+
+
 $ npm install
 
 ___
