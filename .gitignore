@@ -1,0 +1,8 @@
+aw
+node_modules
+*.log
+*.idea
+*.swp
+npm-debug.log
+nyc_output
+coverage

@@ -1,0 +1,30 @@
+{
+  "name": "storage-model",
+  "version": "1.0.0",
+  "author": "Wellington <wellington30071997@gmail.com>",
+  "description": "StorageModel is a library that provides an abstraction/interface ORM(Object Relational Mapper), in order to facilitate the manipulation of data registered in the localstorage.",
+  "keywords": [
+    "util",
+    "orm",
+    "client",
+    "browser",
+    "library",
+    "localstorage"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wellington475/StorageModel"
+  },
+  "main": "storage-model.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
